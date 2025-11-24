@@ -1,3 +1,4 @@
-Finish Task 1.2
+bd8f4f1 (HEAD -> main) Finished the Task 2 that refactored the StatementPrinter.java
+1d5725e (origin/main, origin/HEAD) Finish Task 1.2
 bb5e893 Finish Task 1.1
 f6c24eb Initial commit
