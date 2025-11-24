@@ -1,4 +1,6 @@
-5537e38 (HEAD -> main) Finish Task 2.3
+1283f37 (HEAD -> main) Finish Task 2.4
+e385add Finish Task 2.2
+5537e38 Finish Task 2.3
 9c53fe5 Finish Task 2.1
 bd8f4f1 Finished the Task 2 that refactored the StatementPrinter.java
 1d5725e (origin/main, origin/HEAD) Finish Task 1.2
